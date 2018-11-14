@@ -1,0 +1,10 @@
+*.log
+*.swp
+*.iml
+spark-warehouse
+out
+.idea/
+.git/
+.gradle
+build
+
